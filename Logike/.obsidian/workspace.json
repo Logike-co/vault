@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "b233ecb91bbb5e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1e6a4f75dd58b7",
+        "type": "tabs",
+        "dimension": 73.28680203045685,
+        "children": [
+          {
+            "id": "c742eb61b914a92e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "309e274e215a329e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "d74382a235b00f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DomainDriveDesing/DDD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DDD"
+            }
+          },
+          {
+            "id": "3016a19a26beca16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/How to install docker compose on ubuntu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to install docker compose on ubuntu"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f3a7aa465e03441b",
+        "type": "tabs",
+        "dimension": 26.713197969543145,
+        "children": [
+          {
+            "id": "bf2ced00ba228f49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b08c1bf732663de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "574e54c48fdde1a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03768b2791e7348",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1462a9e000f79a56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9dfba2c67044548",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e470fef09e12f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "675487f245e5f3a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2789f09140dc4c0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Actividades desarrollo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Actividades desarrollo"
+            }
+          },
+          {
+            "id": "f8d9dc6f6a7094dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Actividades desarrollo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Actividades desarrollo"
+            }
+          },
+          {
+            "id": "37a46852942779f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1cb4886edf8d61f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Actividades desarrollo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Actividades desarrollo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3016a19a26beca16",
+  "lastOpenFiles": [
+    "Docker/How to install docker on ubuntu.md",
+    "Docker/How to install docker compose on ubuntu.md",
+    "Linux/Ubuntu",
+    "Java/Vaadin.md",
+    "Docker",
+    "Java/JVM.md",
+    "Actividades desarrollo.md",
+    "Linux/Ubuntu/How to install a Ubuntu development environment.md",
+    "Java/How to install the Java Development Kit - JDK.md",
+    "Java/Maven/How to install Maven management tool.md",
+    "DomainDriveDesing/DDD.md",
+    "PWA/PWA.md",
+    "DRAKON/DRAKON notes.md",
+    "Java/Comparable.md",
+    "Linux/source.md",
+    "Welcome.md",
+    "Libros de programacion.md",
+    "Directory.md",
+    "DRAKON",
+    "Linux/wget.md",
+    "Linux/tar.md",
+    "Linux/chmod.md",
+    "Linux",
+    "Untitled",
+    "Java/Maven",
+    "Java",
+    "PWA",
+    "DomainDriveDesing"
+  ]
+}

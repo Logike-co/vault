@@ -1,0 +1,1 @@
+https://phoenixnap.com/glossary/what-is-a-directory

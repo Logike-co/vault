@@ -1,0 +1,2 @@
+- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
+- Implementing Domain-Driven Design by Vaughn Vernon
