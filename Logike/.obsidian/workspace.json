@@ -4,128 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9c1e6a4f75dd58b7",
+        "id": "3e572a5e762ebb44",
         "type": "tabs",
-        "dimension": 50.06345177664976,
         "children": [
           {
-            "id": "c742eb61b914a92e",
+            "id": "81581a99a6561341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "OS/GNU/Linux/Oracle/Instalacion de Oracle Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "309e274e215a329e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "d74382a235b00f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DomainDriveDesing/DDD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DDD"
-            }
-          },
-          {
-            "id": "3016a19a26beca16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker compose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "docker compose"
-            }
-          },
-          {
-            "id": "aecef1ad3b7ae246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Javadoc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Javadoc"
-            }
-          },
-          {
-            "id": "1ef2d7bd236c66df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keycloak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keycloak"
+              "title": "Instalacion de Oracle Linux"
             }
           }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "f3a7aa465e03441b",
-        "type": "tabs",
-        "dimension": 49.93654822335024,
-        "children": [
-          {
-            "id": "bf2ced00ba228f49",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "955fab04af9fc79f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javadoc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Javadoc"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "weblo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,39 +171,44 @@
   },
   "active": "d03768b2791e7348",
   "lastOpenFiles": [
-    "Libros de programacion.md",
-    "Keycloak.md",
-    "How to Install a development environment.md",
-    "Java/Javadoc.md",
-    "Javadoc.md",
-    "ascii.md",
-    "Docker/docker compose.md",
-    "Actividades desarrollo.md",
-    "Directory.md",
-    "Docker/How to install docker compose on ubuntu.md",
-    "Docker/How to install docker on ubuntu.md",
-    "Linux/Ubuntu",
-    "Java/Vaadin.md",
-    "Docker",
-    "Java/JVM.md",
-    "Linux/Ubuntu/How to install a Ubuntu development environment.md",
-    "Java/How to install the Java Development Kit - JDK.md",
-    "Java/Maven/How to install Maven management tool.md",
-    "DomainDriveDesing/DDD.md",
-    "PWA/PWA.md",
-    "DRAKON/DRAKON notes.md",
-    "Java/Comparable.md",
-    "Linux/source.md",
-    "Welcome.md",
-    "DRAKON",
-    "Linux/wget.md",
-    "Linux/tar.md",
-    "Linux/chmod.md",
-    "Linux",
-    "Untitled",
-    "Java/Maven",
-    "Java",
-    "PWA",
-    "DomainDriveDesing"
+    "Language/Java/Maven/How to install Maven in Windows.md",
+    "Language/Java/Maven/How to install Maven in Linux.md",
+    "SCM/GIT/GIT Commands.md",
+    "AI/MCP/Model Context Protocol.md",
+    "OS/GNU/Linux/Oracle/Instalacion de Oracle Linux.md",
+    "Templates/How to install ....md",
+    "Templates/Document.md",
+    "Templates/Guide.md",
+    "Language/Java/Javadoc.md",
+    "Language/Java/java.md",
+    "Language/Java/How to install the Java Development Kit - JDK.md",
+    "Language/IDE/IntelliJ/Create plugin.md",
+    "Language/Java/Spring/cli.md",
+    "Language/Java/Server/Weblogic/Weblogic 14.md",
+    "Methodology/Agents/product manager.md",
+    "Methodology/Agents/software engineer.md",
+    "Methodology/Agents/software architect.md",
+    "Methodology/Agentes actividades desarrollo.md",
+    "Methodology/Agents",
+    "Pasted image 20260130152819.png",
+    "Methodology/SCRUM/doc/AsciiDoc.md",
+    "Methodology/SCRUM/Product Backlog.md",
+    "AI/Agentic AI.md",
+    "AI/n8n/n8n links.md",
+    "AI/n8n/How to install n8n on dev environment.md",
+    "AI/ai.md",
+    "AI/How to configure LM studio in VS Code.md",
+    "1NDEX.md",
+    "Methodology",
+    "Network/VPN",
+    "Network",
+    "Templates",
+    "Methodology/SCRUM/doc",
+    "OS/GNU",
+    "Architecture/Development",
+    "Architecture/Desing",
+    "Language/Java/Vaadin/Training",
+    "OS/Containers/Docker/container_ov.png",
+    "Database/SQL/sqlJoins.png"
   ]
 }

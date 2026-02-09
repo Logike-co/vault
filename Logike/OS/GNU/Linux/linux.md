@@ -1,0 +1,1 @@
+https://blog.desdelinux.net/libgnunetchat-una-libreria-para-crear-aplicaciones-de-chat-seguras/

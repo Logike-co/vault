@@ -1,0 +1,1 @@
+https://www.hongkiat.com/blog/lm-studio-ai-assistance-vs-code-setup/

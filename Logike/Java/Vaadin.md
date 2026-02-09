@@ -16,3 +16,7 @@ Steps to enable hotswap in VS Code for Vaadin:
     - Open the command palette (Ctrl+Shift+P or Cmd+Shift+P).
     - Type and select "Vaadin: Setup Hotswap Agent."
     - This command prepares your environment by downloading the necessary JetBrains Runtime (JBR), installing the Hotswap Agent library, and updating your project configuration.
+
+
+https://vaadin.com/docs/latest/flow/component-internals/dnd/drag-source
+https://mcp.vaadin.com/docs/

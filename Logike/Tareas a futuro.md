@@ -1,0 +1,6 @@
+- instalar el Ollama
+- conectar ollama con n8n y vscode.
+- n8n:
+	- revisar nodos principales
+	- generar agentes basados en scrum hacer tareas puntuales.
+	- crear agente para iniciar proyecto.

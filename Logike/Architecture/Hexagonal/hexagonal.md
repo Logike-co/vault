@@ -1,0 +1,1 @@
+https://jmgarridopaz.github.io/content/hexagonalarchitecture-ig/chapter2.html
