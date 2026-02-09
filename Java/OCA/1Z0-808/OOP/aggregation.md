@@ -1,0 +1,1 @@
+Está relacionada con la referencia a un objeto.

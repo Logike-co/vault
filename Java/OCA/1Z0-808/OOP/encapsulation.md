@@ -1,0 +1,3 @@
+Es la formadeproteger nuestrosdatosdentrodel sistema, estableciendobásicamente lospermisosonivelesde visibilidad o acceso de nuestros datos, se representa por 3 niveles y 1 uno por default : + Público: Se puede acceder a todos los atributos o métodos de la clase. # Protegido: Se puede acceder a los atributos o métodos solo en la misma jerarquía de herencia.- Privado: Solo se puede acceder a los atributos o métodos de la clase en la que se encuentran. Default: cuandousamosestemodificador, indicaráquesolosepodráaccederaestosmiembrossiempreycuandoesté en el mismo paquete
+
+![[Pasted image 20250521233629.png]]

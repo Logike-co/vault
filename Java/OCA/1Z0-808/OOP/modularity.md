@@ -1,0 +1,1 @@
+Sedenominamodularidada lapropiedadquepermitesubdividir unaaplicaciónenpartesmáspequeñas (llamadas módulos),cadaunadelascualesdebesertanindependientecomoseaposibledelaaplicaciónensíydelasrestantes partes. Estosmódulossepuedencompilarpor separado,perotienenconexionesconotrosmódulos.Al igualquela encapsulación, los lenguajes soportan la modularidad de diversas formas.

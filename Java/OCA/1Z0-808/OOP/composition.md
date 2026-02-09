@@ -1,0 +1,1 @@
+La composición significa utilizar objetos dentro de otros objetos. está relacionada con el valor del objeto, es decir el objeto que lo contiene se encarga de su ciclo de vida (inicialización, mantenimiento y limpieza).

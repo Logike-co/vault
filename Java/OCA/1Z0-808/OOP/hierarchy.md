@@ -1,0 +1,1 @@
+Lajerarquíaesunapropiedadquepermiteunaordenacióndelasabstracciones.Lasdosjerarquíasmásimportantesde un sistema complejo son: ● Estructura de clases (jerarquía “es-un”(is-a):generalización/especialización) ● Estructura de objetos (jerarquía “parte de”(part-of):agregación)

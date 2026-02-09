@@ -1,0 +1,1 @@
+Laasociaciónsepodríadefinircomoelmomentoenquedosobjetosseunenparatrabajar juntosyasí,alcanzaruna meta.
