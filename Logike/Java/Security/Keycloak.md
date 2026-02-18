@@ -1,5 +1,68 @@
 
+``` yaml
+# Compose file for keycloak development environment.
+# 
+# @author <a href="mailto:javier.latorre@logike.co">Javier Latorre</a>
+# @profile localhost
+# @version 1.0 08-02-2026
+services:
+  keycloak-db:
+    image: postgres:14
+    command: -p 5439
+    container_name: keycloak-db
+    environment:
+	    POSTGRES_USER: ${POSTGRES_USER}
+	    POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+	    POSTGRES_DB: keycloak
+    expose:
+      - "5439"
+    volumes:
+      - ./volumes/keycloak-db:/var/lib/postgresql/data
+    ports:
+      - "5439:5439"
+    restart: always
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:latest
+    command: start-dev
+    container_name: keycloak
+    ports:
+	    - "8443:8443"
+	    - "8090:8080"
+    environment:
+	    KEYCLOAK_ADMIN: ${KEYCLOAK_USER}
+	    KEYCLOAK_ADMIN_PASSWORD: ${KEYCLOAK_PASSWORD}
+	    KC_HOSTNAME: ${KEYCLOAK_URL}
+	    KC_DB_URL: jdbc:postgresql://keycloak-db:5439/keycloak
+	    KC_DB: postgres
+	    KC_DB_USERNAME: ${POSTGRES_USER}
+	    KC_DB_PASSWORD: ${POSTGRES_PASSWORD}
+    depends_on:
+      - keycloak-db
+
+volumes:
+  keycloak-db:
+```
+
+.env
+``` yaml
+KEYCLOAK_USER=admin
+KEYCLOAK_PASSWORD=admin123
+KEYCLOAK_URL=localhost
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=pgpass
+```
+
+https://github.com/Tauromachian/keycloak-production-docker-compose/blob/master/docker-compose.dev.yml
+
+https://www.keycloak.org/getting-started/getting-started-docker
+https://www.keycloak.org/ui-customization/themes
+https://www.baeldung.com/keycloak-custom-login-page
+
+https://reducto.ai/
+
 https://www.keycloak.org/
+https://www.keycloak.org/guides#server
 https://vaadin.com/docs/latest/tools/sso/integrations/keycloak
 https://martinelli.ch/vaadin-oauth2-and-keycloak/
 https://vaadin.com/forum/t/vaadin-24-and-keycloak-integration/167544

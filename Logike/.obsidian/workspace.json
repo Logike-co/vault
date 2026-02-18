@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/GNU/Linux/Oracle/Instalacion de Oracle Linux.md",
+                "file": "Agentes actividades desarrollo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalacion de Oracle Linux"
+              "title": "Agentes actividades desarrollo"
+            }
+          },
+          {
+            "id": "022b0e1fb0836513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile Agent Automation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agile Agent Automation"
+            }
+          },
+          {
+            "id": "4c073103d54ab9ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +196,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "d03768b2791e7348",
+  "active": "022b0e1fb0836513",
   "lastOpenFiles": [
+    "Agentes actividades desarrollo.md",
+    "Agile Agent Automation.md",
+    "AI/Continue.md",
+    "AI/ai.md",
+    "AI/Agentic AI.md",
+    "Java/Maven/archetype.md",
+    "Java/Javadoc.md",
+    "Java/Security/Keycloak.md",
+    "AI/n8n/How to install n8n on dev environment.md",
+    "OS/GNU/Linux/Oracle/Instalacion de Oracle Linux.md",
     "Language/Java/Maven/How to install Maven in Windows.md",
     "Language/Java/Maven/How to install Maven in Linux.md",
     "SCM/GIT/GIT Commands.md",
     "AI/MCP/Model Context Protocol.md",
-    "OS/GNU/Linux/Oracle/Instalacion de Oracle Linux.md",
     "Templates/How to install ....md",
     "Templates/Document.md",
     "Templates/Guide.md",
@@ -188,17 +224,8 @@
     "Methodology/Agents/product manager.md",
     "Methodology/Agents/software engineer.md",
     "Methodology/Agents/software architect.md",
-    "Methodology/Agentes actividades desarrollo.md",
     "Methodology/Agents",
     "Pasted image 20260130152819.png",
-    "Methodology/SCRUM/doc/AsciiDoc.md",
-    "Methodology/SCRUM/Product Backlog.md",
-    "AI/Agentic AI.md",
-    "AI/n8n/n8n links.md",
-    "AI/n8n/How to install n8n on dev environment.md",
-    "AI/ai.md",
-    "AI/How to configure LM studio in VS Code.md",
-    "1NDEX.md",
     "Methodology",
     "Network/VPN",
     "Network",

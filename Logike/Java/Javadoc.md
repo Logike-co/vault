@@ -51,6 +51,20 @@ String campaign = entity.getCampprodFk() != null ? entity.getCampprodFk().getId(
  * @version 1.0, 2025-10-20 
  * @since 1.0  
  */
+ 
+ /**
+
+* ${classDescription}
+
+*
+
+* @author <a href="mailto:${email}">${autor}</a>
+
+* @version 1.0, ${date}
+
+* @since 1.0
+
+*/
 
 ```
 
