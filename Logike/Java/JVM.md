@@ -1,1 +1,0 @@
-https://vaadin.com/blog/best-jvm-for-vaadin-apps
