@@ -8,7 +8,7 @@
 - El objetivo no es usar "muchos patrones", sino maximizar claridad, testabilidad y evolucion.
 - La frontera entre dominio e infraestructura debe mantenerse explicita.
 
-## 1) Patrones de diseno por tipo
+## 1) Patrones de diseño por tipo
 
 ### Creacionales
 - Factory Method
